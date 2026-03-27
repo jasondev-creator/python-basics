@@ -8,4 +8,4 @@ Programs included:
 - File handling (student records)
 - Stack and Queue
 
-I am cureently learning and improving my coding skills
+I am currently learning and improving my coding skills
